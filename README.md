@@ -5,7 +5,7 @@ A Python module to represent the galleon, sickle and knut coins of wizard curren
 
 Installation
 ------------
-dffdsfadsdsaf
+
 To install with pip, run:
 
     pip install wizcoin
